@@ -105,15 +105,9 @@ python src/evaluate.py
 
 Training and evaluation may take time depending on your hardware and dataset availability.
 
-## Disclaimer
-
-**This project is for educational and research purposes only.** It demonstrates the application of deep learning to medical image classification and is not intended for clinical diagnosis or medical decision-making. The model has not been established as clinically validated. Predictions should not be used as a substitute for professional medical advice.
-
 ## Author
 
 **Shravani Raut**
-
-Computer Engineering Student
 
 ---
 
